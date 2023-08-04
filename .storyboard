@@ -1,0 +1,168 @@
+{
+    "models": {
+        "mobile": {
+            "class": "GraphLinksModel",
+            "linkDataArray": [
+                {
+                    "actionId": "NAVIGATE_TO_FORM__eb3206016edf4cbb9224f1c0b3dd5b8d",
+                    "actionSequenceId": "AS_Button_dd92c13ed32646f68c79fde32e6cb19b",
+                    "beautifiedPath": "frmHome > btnClickMe > onClick",
+                    "evt": "ide_onClick",
+                    "from": "fef891f031b743d482f6ffc52b9da9c4",
+                    "isPSP": false,
+                    "points": [
+                        304.8,
+                        524.045263671875,
+                        304.8,
+                        542.045263671875,
+                        304.8,
+                        540,
+                        304.8,
+                        540,
+                        304.8,
+                        850.9785970052084,
+                        201.2,
+                        850.9785970052084,
+                        183.2,
+                        850.9785970052084
+                    ],
+                    "to": "c3c33575ce054ec6b38e43419edd71e1",
+                    "widgetKUID": "b8f8faf6e4a4482082b2c820e9a2df1f"
+                },
+                {
+                    "actionId": "NAVIGATE_TO_FORM__cd7944b8da7a4b5282a558dee36bd5d8",
+                    "actionSequenceId": "AS_Form_ie83117dfd0d4ac8bc057fc33d1afbfa",
+                    "beautifiedPath": "frmHome > onTouchStart",
+                    "evt": "ide_onTouchStart",
+                    "from": "fef891f031b743d482f6ffc52b9da9c4",
+                    "isPSP": false,
+                    "to": "c3c33575ce054ec6b38e43419edd71e1",
+                    "widgetKUID": "fef891f031b743d482f6ffc52b9da9c4"
+                },
+                {
+                    "actionId": "NAVIGATE_TO_FORM__ge12e3b7689046228efca105c9b43005",
+                    "actionSequenceId": "AS_Button_d99f43f5ddff4f4fb255ad5d081373a8",
+                    "beautifiedPath": "frmIndex > btnComeBack > onClick",
+                    "evt": "ide_onClick",
+                    "from": "c3c33575ce054ec6b38e43419edd71e1",
+                    "isPSP": false,
+                    "points": [
+                        183.2,
+                        737.9119303385418,
+                        193.2,
+                        737.9119303385418,
+                        196,
+                        737.9119303385418,
+                        196,
+                        737.9119303385418,
+                        204,
+                        737.9119303385418,
+                        204,
+                        588,
+                        172,
+                        588,
+                        172,
+                        540,
+                        246.4,
+                        540,
+                        246.4,
+                        534.045263671875,
+                        246.4,
+                        524.045263671875
+                    ],
+                    "to": "fef891f031b743d482f6ffc52b9da9c4",
+                    "widgetKUID": "fa61db91e9b44724aadeb243b4ed9811"
+                }
+            ],
+            "nodeDataArray": [
+                {
+                    "formKUID": "fef891f031b743d482f6ffc52b9da9c4",
+                    "formName": "frmHome",
+                    "isStartupForm": true,
+                    "key": "fef891f031b743d482f6ffc52b9da9c4",
+                    "loc": "188 184.845263671875",
+                    "thumbnailURL": "/assets/MKAFNew/forms/mobile/frmHome.sm/.thumbs/default.jpeg"
+                },
+                {
+                    "formKUID": "c3c33575ce054ec6b38e43419edd71e1",
+                    "formName": "frmIndex",
+                    "isStartupForm": false,
+                    "key": "c3c33575ce054ec6b38e43419edd71e1",
+                    "loc": "8 624.845263671875",
+                    "thumbnailURL": "/assets/MKAFNew/forms/mobile/frmIndex.sm/.thumbs/default.jpeg"
+                }
+            ]
+        },
+        "tablet": {
+            "class": "GraphLinksModel",
+            "linkDataArray": [
+                {
+                    "actionId": "NAVIGATE_TO_FORM__cd9ddf4c88474ad68ddb8e268a0d5783",
+                    "actionSequenceId": "AS_Button_d5f6f2b09aa84d72b0432bf87d737302",
+                    "beautifiedPath": "CopyForm > Button0jd82a485d0aa48 > onClick",
+                    "evt": "ide_onClick",
+                    "from": "d5bb7a57eae84f8dbd59bfed05c0d8b6",
+                    "isPSP": false,
+                    "points": [
+                        204,
+                        111.51193033854166,
+                        222,
+                        111.51193033854166,
+                        340.5,
+                        111.51193033854166,
+                        340.5,
+                        111.51193033854167,
+                        480,
+                        111.51193033854167,
+                        490,
+                        111.51193033854167
+                    ],
+                    "to": "j1fc6ffc71b54208b5842fbc450fb401",
+                    "widgetKUID": "da132691d961481aad73324f1c9e834c"
+                },
+                {
+                    "actionId": "NAVIGATE_TO_FORM__c36ec09f224c4bbf8a6569c060f1a0ef",
+                    "actionSequenceId": "AS_Button_d8765a4776c24be3a839e0155aaa5247",
+                    "beautifiedPath": "Form2 > Button0cf3d555a689049 > onClick",
+                    "evt": "ide_onClick",
+                    "from": "j1fc6ffc71b54208b5842fbc450fb401",
+                    "isPSP": false,
+                    "points": [
+                        490,
+                        198.17859700520833,
+                        472,
+                        198.17859700520833,
+                        336.5,
+                        198.17859700520833,
+                        336.5,
+                        198.1785970052083,
+                        222,
+                        198.1785970052083,
+                        204,
+                        198.1785970052083
+                    ],
+                    "to": "d5bb7a57eae84f8dbd59bfed05c0d8b6",
+                    "widgetKUID": "e67e73e9cac74698908ca64c284c7c18"
+                }
+            ],
+            "nodeDataArray": [
+                {
+                    "formKUID": "d5bb7a57eae84f8dbd59bfed05c0d8b6",
+                    "formName": "CopyForm",
+                    "isStartupForm": true,
+                    "key": "d5bb7a57eae84f8dbd59bfed05c0d8b6",
+                    "loc": "8 24.845263671875003",
+                    "thumbnailURL": "/assets/MKAFNew/forms/tablet/CopyForm.sm/.thumbs/default.jpeg"
+                },
+                {
+                    "formKUID": "j1fc6ffc71b54208b5842fbc450fb401",
+                    "formName": "Form2",
+                    "isStartupForm": false,
+                    "key": "j1fc6ffc71b54208b5842fbc450fb401",
+                    "loc": "490 24.845263671875003",
+                    "thumbnailURL": "/assets/MKAFNew/forms/tablet/Form2.sm/.thumbs/default.jpeg"
+                }
+            ]
+        }
+    }
+}
